@@ -80,17 +80,31 @@ npm start
 
 ## 🧑‍💻 Folder Structure
 
-/src
-/assets # Images and logos
-/components # Navbar, Toast, etc.
-/pages # Dashboard, Devices, Live, Videos, Profile, Settings
-/store # Zustand stores
-/constants.js # Theme list, etc.
-App.jsx
-main.jsx
-index.css
+```plaintext
+frontend/
+└── src/
+    ├── App.jsx
+    ├── main.jsx
+    ├── index.css
+    ├── constants
+    │   └── index.js
+    ├── assets/
+    │   └── (images and logos)
+    ├── components/
+    │   ├── Navbar.jsx
+    │   ├── SubscriptionPlans.jsx
+    ├── pages/
+    │   ├── Dashboard.jsx
+    │   ├── Devices.jsx
+    │   ├── Live.jsx
+    │   ├── Videos.jsx
+    │   ├── Profile.jsx
+    │   ├── Subscribe.jsx
+    │   └── Settings.jsx
+    └── store/
+        └── useThemestore.js
 
-
+```
 ---
 
 ## 📖 Usage
