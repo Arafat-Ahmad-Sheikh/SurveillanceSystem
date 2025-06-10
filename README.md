@@ -18,8 +18,6 @@ Manage devices, view live feeds, and access recordings from anywhere in the worl
 
 ## 📸 Screenshots
 
-> Replace the image links below with your actual screenshots (e.g. `/assets/dashboard.png`)
-
 ### Dashboard  
 ![DashBoard on Desktop](https://github.com/user-attachments/assets/17d03238-17be-410a-a300-9c950ae6e939)
 
